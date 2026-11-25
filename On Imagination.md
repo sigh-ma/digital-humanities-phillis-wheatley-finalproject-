@@ -35,13 +35,13 @@ Word Count: 650
 --- 
 ## Works Cited
 
-Amoah-Ramey, Nana A. "Insurgent Words, Poetic Diplomacy: Frederick Douglass, Phillis Wheatley, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Literacy as Liberation." *Journal of Black Studies*, vol. 57, no. 7, 2026, pp. 827-846. https://journals-sagepub-com.ezproxy.kpu.ca:2443/doi/full/10.1177/00219347251393531?utm_source=summon&utm_medium=discovery-provider.
+Amoah-Ramey, Nana A. "Insurgent Words, Poetic Diplomacy: Frederick Douglass, Phillis Wheatley, and Literacy as Liberation." *Journal of Black Studies*, vol. 57, no. 7, 2026, pp. 827-846. https://journals-sagepub-com.ezproxy.kpu.ca:2443/doi/full/10.1177/00219347251393531?utm_source=summon&utm_medium=discovery-provider.
 
 "Aurora." *Wikipedia,* Wikimedia Foundation, 13 November 2026, https://en.wikipedia.org/wiki/Aurora. 
 
 "Aurora (mythology.)" *Wikipedia,* Wikimedia Foundation, 18 June 2026, https://en.wikipedia.org/wiki/Aurora_(mythology).  
 
-Bynum, Tara A., et al. "Special Issue Introduction: 'Dear Sister: Phillis Wheatley's Futures'." *Early &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Literature*, vol. 57, no. 3, 2022, pp. 663-679. https://go-gale-com.ezproxy.kpu.ca:2443/ps/i.do?p=LitRC&u=kwantlenuc_lib&id=GALE%7CA723637898&v=2.1&it=r&sid=summon.
+Bynum, Tara A., et al. "Special Issue Introduction: 'Dear Sister: Phillis Wheatley's Futures'." *Early American Literature*, vol. 57, no. 3, 2022, pp. 663-679. https://go-gale-com.ezproxy.kpu.ca:2443/ps/i.do?p=LitRC&u=kwantlenuc_lib&id=GALE%7CA723637898&v=2.1&it=r&sid=summon.
 
 "Fetters." *The Free Dictionary By Farlex,* https://www.thefreedictionary.com/fetters. 
 
