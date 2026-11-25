@@ -75,67 +75,65 @@ O'Briain, Katarina. "Periodizing the Long Eighteenth Century — Across Generati
 
 
 ## ON IMAGINATION.
-
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THY various works, imperial queen, we see,
-> How bright their forms! how deck’d with pomp
-> by thee!
-> Thy wond’rous acts in beauteous order stand,
-> And all attest how potent is thine hand.
-  <br>
-  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From *Helicon’s* [^1] refulgent[^2] heights attend,
-  > Ye sacred choir, and my attempts befriend:
-  > To tell her glories with a faithful tongue,
-  > Ye blooming graces, triumph in my song.
-  <br>
-  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now here, now there, the roving[^3] *Fancy* [^4] flies,
-  > Till some lov’d object strikes her wand’ring eyes,
-  > Whose silken fetters[^5] all the senses bind,
-  > And soft captivity involves the mind.
-  <br>  
- > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Imagination*! who can sing thy force?
-  > Or who describe the swiftness of thy course?
-  > Soaring through air to find the bright abode,
-  > Th’ empyreal palace of the thund’ring God,
-  > We on thy pinions[^6] can surpass the wind,
-  > And leave the rolling universe behind:
-  > From star to star the mental optics rove,
-  > Measure the skies, and range the realms above.
-  > There in one view we grasp the mighty whole,
-  > Or with new worlds amaze th’ unbounded soul.
-  <br>
-  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though *Winter* frowns to *Fancy’s* raptur’d eyes
-  > The fields may flourish, and gay scenes arise;
-  > The frozen deeps may break their iron bands,
-  > And bid their waters murmur o’er the sands.
-  > Fair *Flora* [^7] may resume her fragrant reign,
-  > And with her flow’ry riches deck the plain;
-  > *Sylvanus*[^8] may diffuse his honours round,
-  > And all the forest may with leaves be crown’d:
-  > Show’rs may descend, and dews their gems disclose,
-  > And nectar sparkle on the blooming rose.
-  ><br>
-  > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such is thy pow’r, nor are thine orders vain,
-  > O thou the leader of the mental train:
-  > In full perfection all thy works are wrought,
-  > And thine the sceptre o’er the realms of thought.
-  > Before thy throne the subject-passions bow,
-  > Of subject-passions sov’reign ruler thou;
-  > At thy command joy rushes on the heart,
-  > And through the glowing veins the spirits dart.
-  <br>
- > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Fancy* might now her silken pinions try
-  > To rise from earth, and sweep th’ expanse on high:
-  > From *Tithon’s* bed[^9] now might *Aurora*[^10] rise,
-  > Her cheeks all glowing with celestial dies,
-  > While a pure stream of light o’erflows the skies.
-  > The monarch of the day I might behold,
-  > And all the mountains tipt with radiant gold,
-  > But I reluctant leave the pleasing views,
-  > Which *Fancy* dresses to delight the *Muse*; [^11]
-  > *Winter* austere forbids me to aspire,
-  > And northern tempests damp the rising fire;
-  > They chill the tides of *Fancy’s* flowing sea,
-  > Cease then, my song, cease the unequal lay[^12].
+<br>How bright their forms! how deck’d with pomp by thee!
+<br>Thy wond’rous acts in beauteous order stand,
+<br>And all attest how potent is thine hand.
+
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From *Helicon’s* [^1] refulgent[^2] heights attend,
+<br>Ye sacred choir, and my attempts befriend:
+<br>To tell her glories with a faithful tongue,
+<br>Ye blooming graces, triumph in my song.
+ 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now here, now there, the roving[^3] *Fancy* [^4] flies,
+<br>Till some lov’d object strikes her wand’ring eyes,
+<br>Whose silken fetters[^5] all the senses bind,
+<br>And soft captivity involves the mind.
+    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Imagination*! who can sing thy force?
+<br>Or who describe the swiftness of thy course?
+<br>Soaring through air to find the bright abode,
+<br>Th’ empyreal palace of the thund’ring God,
+<br>We on thy pinions[^6] can surpass the wind,
+<br>And leave the rolling universe behind:
+<br>From star to star the mental optics rove,
+<br>Measure the skies, and range the realms above.
+<br>There in one view we grasp the mighty whole,
+<br>Or with new worlds amaze th’ unbounded soul.
+  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though *Winter* frowns to *Fancy’s* raptur’d eyes
+<br>The fields may flourish, and gay scenes arise;
+<br>The frozen deeps may break their iron bands,
+<br>And bid their waters murmur o’er the sands.
+<br>Fair *Flora* [^7] may resume her fragrant reign,
+<br>And with her flow’ry riches deck the plain;
+<br>*Sylvanus*[^8] may diffuse his honours round,
+<br>And all the forest may with leaves be crown’d:
+<br>Show’rs may descend, and dews their gems disclose,
+<br>And nectar sparkle on the blooming rose.
+  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such is thy pow’r, nor are thine orders vain,
+>br>O thou the leader of the mental train:
+<br>In full perfection all thy works are wrought,
+<br>And thine the sceptre o’er the realms of thought.
+<br>Before thy throne the subject-passions bow,
+<br>Of subject-passions sov’reign ruler thou;
+<br>At thy command joy rushes on the heart,
+<br>And through the glowing veins the spirits dart.
+
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Fancy* might now her silken pinions try
+<br>To rise from earth, and sweep th’ expanse on high:
+<br>From *Tithon’s* bed[^9] now might *Aurora*[^10] rise,
+<br>Her cheeks all glowing with celestial dies,
+<br>While a pure stream of light o’erflows the skies.
+<br>The monarch of the day I might behold,
+<br>And all the mountains tipt with radiant gold,
+<br>But I reluctant leave the pleasing views,
+<br>Which *Fancy* dresses to delight the *Muse*; [^11]
+<br>*Winter* austere forbids me to aspire,
+<br>And northern tempests damp the rising fire;
+<Br>They chill the tides of *Fancy’s* flowing sea,
+<br>Cease then, my song, cease the unequal lay[^12].
 --- 
 
 [^1]:the name of a mountain in Boeotia, Greece. It is a place of artistic inspiration which originates from Greek mythology.
