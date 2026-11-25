@@ -143,7 +143,7 @@ O'Briain, Katarina. "Periodizing the Long Eighteenth Century — Across Generati
 [^6]: the external portion of a bird’s wing
 [^7]: the goddess of all plants, flowers, and spring in Roman mythology
 [^8]: God of the wilderness, woods, and the forest in Roman mythology
-[^9]: the marriage bed of and Tithon (the lover of Eos) and Eos (the goddess of dawn). Eos gave brightness to the world in the morning after rising from this bed.
+[^9]: in Greek mythology the marriage bed of Tithonus (the lover of Eos) and Eos (the goddess of dawn). Eos gave brightness to the world in the morning after rising from this bed.
 [^10]: Known as the goddess of dawn in Roman mythology (the equivalent of the goddess Eos) It is also a vibrant display of natural colourful lights in the sky.
 [^11]: They are the nine goddesses in Greek mythology pertaining to literature, sciences and the arts. In modern times it refers to a person or force who serves as a source of artistic inspiration for the artist. According to Greek mythology Mount Helicon (located in Boeotia, Greece) is the home of the Muses.
 [^12]: a song or poem in 18th century literature.
