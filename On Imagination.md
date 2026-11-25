@@ -112,7 +112,7 @@ O'Briain, Katarina. "Periodizing the Long Eighteenth Century — Across Generati
 <br>And nectar sparkle on the blooming rose.
   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such is thy pow’r, nor are thine orders vain,
->br>O thou the leader of the mental train:
+<br>O thou the leader of the mental train:
 <br>In full perfection all thy works are wrought,
 <br>And thine the sceptre o’er the realms of thought.
 <br>Before thy throne the subject-passions bow,
