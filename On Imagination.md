@@ -15,9 +15,7 @@
 
 Word Count: 585
   
-![[Pasted image 20261124193034.png]]
- ! [Alt text] (https://go-gale-com.ezproxy.kpu.ca:2443/ps/i.do?p=LitRC&u=kwantlenuc_lib&id=GALE%7CA723637898&v=2.1&it=r&sid=summon)
-
+<img width="822" height="1083" alt="image" src="https://github.com/user-attachments/assets/065dae99-e0bf-4c48-a55f-eb315a2a925b" />
 
 
 --- 
