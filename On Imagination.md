@@ -27,7 +27,8 @@ Word Count: 585
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, Wheatley’s personification of nature induces a subtle effect that seeks to alternate between the notions of captivity and liberation. Wheatley demonstrates this when she personifies the season of winter as the speaker states, “*Winter* austere forbids me to aspire” (line 50). The cold symbolizes death and decay, resulting in a barren landscape, devoid of fertile growth. On the contrary, the Roman goddess “*Flora*” (line 27) represents a new beginning, hope, and happiness in the form of Spring, abundant with various vibrant flowers that contain a seed of opportunity for a better future that aims for inclusion rather than constant repulsion. In addition, O”Briain states that “In the case of a poet like Phillis Wheatley, limits have long been placed around her work — both because of when she was writing and because of who she was” (2). Phillis’s identity as the first black woman to ever publish a book of poems suggests that she must have had several restrictions placed upon her to stop her from condemning the society that aided in her discovery, by encouraging her education instead of completely concealing the knowledge of literacy from her. However, during her final days such support vanished only to be replaced with a feeling of being utterly lost among the crowd amidst the many faces that are only silent and do not speak the language of a neoclassical tone using heroic couplets as fluently as she does. Hence, by empowering others to look beyond themselves into the future of ultimate liberation and equality, she implicitly demands justice in the face of continuous oppression.
 <br>
-! [The Neoclassical Period | Restoration Age | Augustan Age | Age of Johnson] (https://www.youtube.com/watch?v=-ErXi-ysaaw)
+
+[Watch the video on Neoclassical Poetry on YouTube](https://www.youtube.com/watch?v=-ErXi-ysaaw)
 
 Word Count: 650
 
